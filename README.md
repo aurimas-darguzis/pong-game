@@ -8,5 +8,5 @@ Technologies used:
 * requestAnimationFrame()
 * Handling user input
 
-Try it:
+Try it here:
 * http://aurimas.darguzis.com/projects/pong/
