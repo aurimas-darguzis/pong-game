@@ -7,6 +7,3 @@ Technologies used:
 * Canvas
 * requestAnimationFrame()
 * Handling user input
-
-Try it here:
-* http://aurimas.darguzis.com/projects/pong/
